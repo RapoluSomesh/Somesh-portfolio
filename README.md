@@ -52,14 +52,14 @@
 
 ### 4) 🚦 Road Accident Data Analysis (MYSQL)
 ✅ Analyzed accident patterns and built insights like accident trends, location analysis, and vehicle impact.  
-**Tools:** MYSQL, Excel 
+**Tools:** MYSQL, Excel   
 🔗 GitHub Repo: [https://github.com/yourusername/road-accident-data-analysis](https://github.com/RapoluSomesh/road_accidents_sql_project)  
 🔗 Live / LinkedIn Post: [https://linkedin.com](https://www.linkedin.com/posts/someshrapolu_im-excited-to-share-my-project-road-accident-activity-7262072396201762817-75su?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7nl5gBP-EtM87jon4kzLDKUD_5VQdsWsY) 
 
 ---
 
 ## 📫 Contact Me  
-📞 Phone No: +91-9553875921
+📞 Phone No: +91-9553875921  
 📧 Email: someshrapolu966@gmail.com  
 🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/someshrapolu/)  
 💻 GitHub: [https://github.com/yourusername](https://github.com/RapoluSomesh?tab=repositories)  

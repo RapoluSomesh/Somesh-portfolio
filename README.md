@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Somesh Rapolu  
 ### 📊 Data Analyst | SQL | Python | Power BI | Excel  
 
-📌 I’m a fresher Data Analyst passionate about turning raw data into useful insights using dashboards, reports, and data analysis.
+📌 I’m a Data Analyst passionate about turning raw data into useful insights using dashboards, reports, and data analysis.
 
 ---
 

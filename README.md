@@ -35,7 +35,7 @@
 
 ---
 
-### 1) 📊 Retail Supply Chain Sales Dashboard  
+### 2) 📊 Retail Supply Chain Sales Dashboard  
 ✅ Built interactive dashboard and KPIs using cleaned dataset.  
 **Tools:** Excel, Power BI, DAX  
 🔗 GitHub Repo: [Link](https://github.com/RapoluSomesh/Retail-Supply-Chain-Sales-Dashboard)  
@@ -43,21 +43,21 @@
 
 ---
 
-### 2) 🍽 Zomato Data Analysis (Python)  
+### 3) 🍽 Zomato Data Analysis (Python)  
 ✅ EDA + insights using visualizations and data cleaning.  
 **Tools:** Python, Pandas, Matplotlib  
 🔗 GitHub Repo: [Link](https://github.com/RapoluSomesh/zomato_data_analysis_python)  
 
 ---
 
-### 3) 🛒 Amazon Sales Dashboard (Power BI)
+### 4) 🛒 Amazon Sales Dashboard (Power BI)
 ✅ Created a sales dashboard with KPIs, monthly trends, category performance, and top products.  
 **Tools:** Power BI, Excel  
 🔗 GitHub Repo: [Link](https://github.com/RapoluSomesh/Amazon_Sales_Dashboard_Power-Bi)   
 
 ---
 
-### 4) 🚦 Road Accident Data Analysis (MYSQL)
+### 5) 🚦 Road Accident Data Analysis (MYSQL)
 ✅ Analyzed accident patterns and built insights like accident trends, location analysis, and vehicle impact.  
 **Tools:** MYSQL, Excel   
 🔗 GitHub Repo: [Link](https://github.com/RapoluSomesh/road_accidents_sql_project)  

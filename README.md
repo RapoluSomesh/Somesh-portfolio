@@ -28,32 +28,39 @@
 
 ## 📌 Projects Showcase  
 
+### 1) 📊 Business Revenue & Customer Retention MIS Dashboard  
+✅ Built interactive MIS dashboard to monitor revenue performance, customer retention, and profit trends using cleaned transactional dataset.  
+**Tools:** SQL, Excel, Power BI, DAX  
+🔗 GitHub Repo:[Link](https://github.com/RapoluSomesh/Business-Revenue-MIS-Dashboard)
+
+---
+
 ### 1) 📊 Retail Supply Chain Sales Dashboard  
 ✅ Built interactive dashboard and KPIs using cleaned dataset.  
 **Tools:** Excel, Power BI, DAX  
-🔗 GitHub Repo: [https://github.com/yourusername/retail-supplychain-dashboard](https://github.com/RapoluSomesh/Retail-Supply-Chain-Sales-Dashboard)  
-🔗 Live / LinkedIn Post: [https://linkedin.com ](https://www.linkedin.com/posts/someshrapolu_dataanalyst-powerbi-excel-activity-7415388650923794432-rwcl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7nl5gBP-EtM87jon4kzLDKUD_5VQdsWsY) 
+🔗 GitHub Repo: [Link](https://github.com/RapoluSomesh/Retail-Supply-Chain-Sales-Dashboard)  
+🔗 Live / LinkedIn Post: [Link](https://www.linkedin.com/posts/someshrapolu_dataanalyst-powerbi-excel-activity-7415388650923794432-rwcl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7nl5gBP-EtM87jon4kzLDKUD_5VQdsWsY) 
 
 ---
 
 ### 2) 🍽 Zomato Data Analysis (Python)  
 ✅ EDA + insights using visualizations and data cleaning.  
 **Tools:** Python, Pandas, Matplotlib  
-🔗 GitHub Repo: [https://github.com/yourusername/zomato-data-analysis](https://github.com/RapoluSomesh/zomato_data_analysis_python)  
+🔗 GitHub Repo: [Link](https://github.com/RapoluSomesh/zomato_data_analysis_python)  
 
 ---
 
 ### 3) 🛒 Amazon Sales Dashboard (Power BI)
 ✅ Created a sales dashboard with KPIs, monthly trends, category performance, and top products.  
 **Tools:** Power BI, Excel  
-🔗 GitHub Repo: [https://github.com/yourusername/amazon-sales-dashboard](https://github.com/RapoluSomesh/Amazon_Sales_Dashboard_Power-Bi)   
+🔗 GitHub Repo: [Link](https://github.com/RapoluSomesh/Amazon_Sales_Dashboard_Power-Bi)   
 
 ---
 
 ### 4) 🚦 Road Accident Data Analysis (MYSQL)
 ✅ Analyzed accident patterns and built insights like accident trends, location analysis, and vehicle impact.  
 **Tools:** MYSQL, Excel   
-🔗 GitHub Repo: [https://github.com/yourusername/road-accident-data-analysis](https://github.com/RapoluSomesh/road_accidents_sql_project)  
+🔗 GitHub Repo: [Link](https://github.com/RapoluSomesh/road_accidents_sql_project)  
 🔗 Live / LinkedIn Post: [https://linkedin.com](https://www.linkedin.com/posts/someshrapolu_im-excited-to-share-my-project-road-accident-activity-7262072396201762817-75su?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7nl5gBP-EtM87jon4kzLDKUD_5VQdsWsY) 
 
 ---

@@ -28,14 +28,21 @@
 
 ## 📌 Projects Showcase  
 
-### 1) 📊 Business Revenue & Customer Retention MIS Dashboard  
+### 1) 📊 Customer Purchase Behaviour & Profitability Analysis  
+✅ Built interactive MIS dashboard to analyze sales performance, profit trends, customer retention, and regional revenue distribution using cleaned transactional data.  
+**Tools:** SQL, Python (Pandas, NumPy, Matplotlib)  
+🔗 GitHub Repo:[Link](https://github.com/RapoluSomesh/Customer-Purchase-Behaviour-Profitability-Analysis/tree/main))
+
+---
+
+### 2) 📊 Business Revenue & Customer Retention MIS Dashboard  
 ✅ Built interactive MIS dashboard to monitor revenue performance, customer retention, and profit trends using cleaned transactional dataset.  
 **Tools:** SQL, Excel, Power BI, DAX  
 🔗 GitHub Repo:[Link](https://github.com/RapoluSomesh/Business-Revenue-MIS-Dashboard)
 
 ---
 
-### 2) 📊 Retail Supply Chain Sales Dashboard  
+### 3) 📊 Retail Supply Chain Sales Dashboard  
 ✅ Built interactive dashboard and KPIs using cleaned dataset.  
 **Tools:** Excel, Power BI, DAX  
 🔗 GitHub Repo: [Link](https://github.com/RapoluSomesh/Retail-Supply-Chain-Sales-Dashboard)  
@@ -43,21 +50,21 @@
 
 ---
 
-### 3) 🍽 Zomato Data Analysis (Python)  
+### 4) 🍽 Zomato Data Analysis (Python)  
 ✅ EDA + insights using visualizations and data cleaning.  
 **Tools:** Python, Pandas, Matplotlib  
 🔗 GitHub Repo: [Link](https://github.com/RapoluSomesh/zomato_data_analysis_python)  
 
 ---
 
-### 4) 🛒 Amazon Sales Dashboard (Power BI)
+### 5) 🛒 Amazon Sales Dashboard (Power BI)
 ✅ Created a sales dashboard with KPIs, monthly trends, category performance, and top products.  
 **Tools:** Power BI, Excel  
 🔗 GitHub Repo: [Link](https://github.com/RapoluSomesh/Amazon_Sales_Dashboard_Power-Bi)   
 
 ---
 
-### 5) 🚦 Road Accident Data Analysis (MYSQL)
+### 6) 🚦 Road Accident Data Analysis (MYSQL)
 ✅ Analyzed accident patterns and built insights like accident trends, location analysis, and vehicle impact.  
 **Tools:** MYSQL, Excel   
 🔗 GitHub Repo: [Link](https://github.com/RapoluSomesh/road_accidents_sql_project)  
